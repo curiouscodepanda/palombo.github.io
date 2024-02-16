@@ -1,22 +1,19 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Big Questions"
+    url: /big-questions/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Learning & Improvement"
+    url: /learning-and-improvement/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Business, Marketing & Strategic Thinking"
+    url: /business-marketing-strategy/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Cosmic Quandaries"
+    url: /cosmic-quadaries/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Coding, AI, Internet"
+    url: /coding-ai-internet/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Projects"
+    url: /projects/
