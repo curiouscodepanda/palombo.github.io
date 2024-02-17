@@ -196,7 +196,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  big-questions:
     output: true
     permalink: /:collection/:path/
   publications:
