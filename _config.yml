@@ -20,7 +20,7 @@ repository               : "curiouscodepanda/palombo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic_ap.jpg"
   name             : "Andrew Palombo"
   pronouns         : ## example: "she/her"  
   bio              : "Archiving my curiosities."
