@@ -1,7 +1,7 @@
 ---
 title: "Consciousness"
 collection: big-questions
-type: "Undergraduate course"
+type: "big-questions"
 permalink: /big-questions/consciousness
 venue: "Earth"
 date: 2024-02-16
