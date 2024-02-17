@@ -11,9 +11,9 @@ title                    : "Andrew's Homepage"
 title_separator          : "-"
 name                     : &name "Andrew Palombo"
 description              : &description "Archiving my curiosities."
-url                      : https://palombo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://palombo.life # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "palombo.github.io"
+repository               : "curiouscodepanda/palombo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
