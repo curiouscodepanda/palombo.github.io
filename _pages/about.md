@@ -14,15 +14,18 @@ Big Questions
 Who are we? Why are we here? I enjoy exploring various "big questions" like the prelude of this paragraph. Trying to make sense of a world 
 [View my articles on this subject here](https://palombo.life/big-questions)
 
-Getting started
+Learning & Improvement
 ======
 More info about this section coming soon.
 
-Site-wide configuration
+Cosmic Quandaries
 ======
 More info about this section coming soon.
 
+Coding, AI, Internet
+======
+More info about this section coming soon.
 
-Create content & metadata
+Projects
 ======
 More info about this section coming soon.
