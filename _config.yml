@@ -230,10 +230,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _big-questions
   - scope:
       path: ""
-      type: teaching
+      type: big-questions
     values:
       layout: single
       author_profile: true
