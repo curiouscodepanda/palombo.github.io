@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hello! I'm Andrew. This is my personal website to share my thoughts, opinions, and research on things I find interesting. Here you'll learn a little more about who I am as a person and what I'm interested in! As I collect my thoughts, I'll keep them organized by general categories for simplicity's sake. I hope you enjoy your time here!
 
-Life: Exploring Big Questions
+Big Questions: Life & Beyond
 ======
 Who are we? Why are we here? I enjoy exploring various "big questions" like the prelude of this paragraph. Trying to make sense of a world 
 [View my articles on this subject here](https://palombo.life/big-questions)
