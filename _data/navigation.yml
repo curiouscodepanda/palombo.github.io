@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "Big Questions"
+  - title: "Life"
     url: /big-questions/
 
-  - title: "Learning & Improvement"
-    url: /learning-and-improvement/    
+  - title: "Learning"
+    url: /learning-and-improvement/  
 
-  - title: "Business, Marketing & Strategic Thinking"
+  - title: "Coding"
+    url: /coding-ai-internet/  
+
+  - title: "Business"
     url: /business-marketing-strategy/    
     
-  - title: "Cosmic Quandaries"
+  - title: "Space"
     url: /cosmic-quadaries/
-        
-  - title: "Coding, AI, Internet"
-    url: /coding-ai-internet/
     
   - title: "Projects"
     url: /projects/
