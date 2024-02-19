@@ -199,7 +199,7 @@ collections:
   big-questions:
     output: true
     permalink: /:collection/:path/
-  publications:
+  learning:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -239,10 +239,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _learning
   - scope:
       path: ""
-      type: publications
+      type: learning
     values:
       layout: single
       author_profile: true
