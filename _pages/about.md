@@ -11,7 +11,7 @@ redirect_from:
 
 Big Questions: Life & Beyond
 ======
-Who are we? Why are we here? I enjoy exploring various "big questions" like the prelude of this paragraph. Trying to make sense of a world 
+Who are we? Why are we here? I enjoy exploring various "big questions" like the prelude of this paragraph, trying to make sense of this world. 
 [View my articles on this subject here](https://palombo.life/big-questions)
 
 Learning: Developing New Skills & Improving Self
