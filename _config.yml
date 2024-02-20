@@ -208,7 +208,7 @@ collections:
   business-marketing-strategy:
     output: true
     permalink: /:collection/:path/
-  cosmic-quandaries:
+  space:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -271,10 +271,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _cosmic-quandaries
+  # _space
   - scope:
       path: ""
-      type: cosmic-quandaries
+      type: space
     values:
       layout: single
       author_profile: true

@@ -1,8 +1,8 @@
 ---
 title: "Black Holes"
-collection: cosmic-quandaries
-type: "cosmic-quandaries"
-permalink: /cosmic-quandaries/black-holes
+collection: space
+type: "space"
+permalink: /space/black-holes
 venue: "Earth"
 date: 2024-02-16
 location: "City, Country"
