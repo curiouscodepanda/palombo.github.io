@@ -205,7 +205,13 @@ collections:
   coding:
     output: true
     permalink: /:collection/:path/
-  talks:
+  business-marketing-strategy:
+    output: true
+    permalink: /:collection/:path/
+  cosmic-quandaries:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
