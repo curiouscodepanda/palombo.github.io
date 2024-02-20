@@ -257,12 +257,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _business-marketing-strategy
   - scope:
       path: ""
-      type: talks
+      type: business-marketing-strategy
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
