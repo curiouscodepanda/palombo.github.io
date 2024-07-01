@@ -18,14 +18,22 @@ Learning: Developing New Skills & Improving Self
 ======
 More info about this section coming soon.
 
-Space: Cosmic Quandaries
-======
-More info about this section coming soon.
+[//]: # (Space: Cosmic Quandaries)
 
-# Coding: Traversing Python, AI, and the Internet
-# ======
-# More info about this section coming soon.
+[//]: # (======)
 
-# Projects
-# ======
-# More info about this section coming soon.
+[//]: # (More info about this section coming soon.)
+
+
+[//]: # (Coding: Traversing Python, AI, and the Internet)
+
+[//]: # (======)
+
+[//]: # (More info about this section coming soon.)
+
+
+[//]: # (Projects)
+
+[//]: # (======)
+
+[//]: # (More info about this section coming soon.)
