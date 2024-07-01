@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           : "profile_picture_ap_final.jpg"
   name             : "Andrew Palombo"
-  pronouns         : ## example: "she/her"  
+  pronouns         : ## example: "he/him"  
   bio              : "Archiving my curiosities."
   location         : ## "Earth"
   employer         : ## "Red Brick University"
@@ -196,7 +196,7 @@ kramdown:
 
 # Collections
 collections:
-  big-questions:
+  main:
     output: true
     permalink: /:collection/:path/
   learning:
@@ -239,10 +239,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _big-questions
+  # _main
   - scope:
       path: ""
-      type: big-questions
+      type: main
     values:
       layout: single
       author_profile: true

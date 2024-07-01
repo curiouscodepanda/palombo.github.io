@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Big Questions"
-permalink: /big-questions/
+title: "Life | Andrew Palombo"
+permalink: /main/
 author_profile: true
 ---
 

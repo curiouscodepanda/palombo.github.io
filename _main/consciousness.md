@@ -1,8 +1,8 @@
 ---
-title: "Consciousness"
-collection: big-questions
-type: "big-questions"
-permalink: /big-questions/consciousness
+title: "Awareness"
+collection: main
+type: "main"
+permalink: /main/awareness
 venue: "Earth"
 date: 2024-02-16
 location: "City, Country"
