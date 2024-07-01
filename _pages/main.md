@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can find my only article so far below:
-[Article on Consciousness](https://palombo.life/big-questions/consciousness)
+[Article on Awareness](https://palombo.life/main/awareness)
 
 {% include base_path %}
 
