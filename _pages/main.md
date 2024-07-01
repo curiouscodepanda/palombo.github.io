@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Life | Andrew Palombo"
+title: "Life Articles"
 permalink: /main/
 author_profile: true
 ---
